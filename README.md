@@ -9,3 +9,4 @@
 7. Boats to Save People
 8. 3Sum
 9. 4Sum
+10. First Unique Character in a String
